@@ -1,0 +1,10 @@
+import datetime
+import time
+
+# Welcoming the Player
+print("Welcome to the Console Typing Test")
+start = input("Press enter to being")
+
+
+
+start_time = (datetime.datetime.now() + datetime.timedelta(hours=8)).time()
